@@ -420,7 +420,7 @@ $"{defender.name} (стамина:{defender.stamina},защита:{defender.defe
             if (gang == 0)
             {
                 if (stamina > 19)
-                    stamina -= 20;
+                    stamina -= 20;//
             }
             else
             {
